@@ -167,6 +167,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-tinker-board-3.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-tinker-board-3s.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-9tripod-x3568-v4.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-bpi-r2-pro.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-carrier.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-easepi-r1.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-dg-tn3568.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-alark35-3500.dtb
